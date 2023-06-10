@@ -1,7 +1,7 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-08 02:12:58
+# UPDATED: 2023-06-10 02:11:39
 # HOST: 180
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 118
@@ -31,8 +31,8 @@ HOST,c-71-227-163-17.hsd1.wa.comcast.net,PrivateTracker
 HOST,canardscitrons.nohost.me,PrivateTracker
 HOST,carr.codes,PrivateTracker
 HOST,city21.pk,PrivateTracker
+HOST,concen.org,PrivateTracker
 HOST,d40969.acod.regrucolo.ru,PrivateTracker
-HOST,dex.email,PrivateTracker
 HOST,dmitrynegoda.com,PrivateTracker
 HOST,download.nerocloud.me,PrivateTracker
 HOST,ec2-18-191-163-220.us-east-2.compute.amazonaws.com,PrivateTracker
@@ -79,8 +79,8 @@ HOST,private.anonseed.com,PrivateTracker
 HOST,psyco.fr,PrivateTracker
 HOST,public-tracker.cf,PrivateTracker
 HOST,public.publictracker.xyz,PrivateTracker
-HOST,public.tracker.vraphim.com,PrivateTracker
 HOST,pxnet.ru,PrivateTracker
+HOST,region.nl1.privex.cc,PrivateTracker
 HOST,rep-art.ynh.fr,PrivateTracker
 HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta-net.ru,PrivateTracker
@@ -126,6 +126,7 @@ HOST,tracker.cubonegro.lol,PrivateTracker
 HOST,tracker.cyberia.is,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
+HOST,tracker.edkj.club,PrivateTracker
 HOST,tracker.farted.net,PrivateTracker
 HOST,tracker.filemail.com,PrivateTracker
 HOST,tracker.files.fm,PrivateTracker
@@ -147,10 +148,10 @@ HOST,tracker.moeblog.cn,PrivateTracker
 HOST,tracker.moeking.me,PrivateTracker
 HOST,tracker.monitorit4.me,PrivateTracker
 HOST,tracker.mywaifu.best,PrivateTracker
+HOST,tracker.ocnix.net,PrivateTracker
 HOST,tracker.openbittorrent.com,PrivateTracker
 HOST,tracker.opentrackr.org,PrivateTracker
 HOST,tracker.openwebtorrent.com,PrivateTracker
-HOST,tracker.publictracker.xyz,PrivateTracker
 HOST,tracker.qu.ax,PrivateTracker
 HOST,tracker.renfei.net,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
@@ -161,7 +162,6 @@ HOST,tracker.theoks.net,PrivateTracker
 HOST,tracker.tiny-vps.com,PrivateTracker
 HOST,tracker.torrent.eu.org,PrivateTracker
 HOST,tracker.trojangogogo.site,PrivateTracker
-HOST,tracker.zerobytes.xyz,PrivateTracker
 HOST,tracker1.520.jp,PrivateTracker
 HOST,tracker1.bt.moack.co.kr,PrivateTracker
 HOST,tracker1.itzmx.com,PrivateTracker

@@ -1,112 +1,56 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-08 02:08:49
-# DOMAIN: 11542
+# UPDATED: 2023-06-10 02:08:14
+# DOMAIN: 11515
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 120555
+# DOMAIN-SUFFIX: 120763
 # IP-CIDR: 251
-# TOTAL: 132612
+# TOTAL: 132793
 2tyne.ic
-3p-geo.yahoo.com
-3p-udc.yahoo.com
 46186911.vtt
-5vuk.xyz
 80055404.vtt
 aab-proxy.tld
 absurdapple.com
-adfox.yandex.ru
+adballoon.afreecatv.com
 adfstat.yandex.ru
 ads.youtube.com
-adsdk.yandex.ru
-afearprevoid.com
-an.yandex.ru
-anchusauredo.com
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
-apple.www.letv.com
 applesometimes.com
-applets.ebxcdn.com
-attractionapples.com
-awaps.yandex.ru
 awsync.yandex.ru
-bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
-bergsmouflon.com
 blueduckredapple.com
-bs.yandex.ru
-cineolesloth.com
-collector2c.zhihuishu.com
-cookiex.ngd.yahoo.com
-crusilyparonym.com
-cuddleangkhak.com
-d1180od816jent.cloudfront.net
-d13pxqgp3ixdbh.cloudfront.net
+bny9.cn
 d1stxfv94hrhia.cloudfront
-d1ux93ber9vlwt.cloudfront.net
-d28uhswspmvrhb.cloudfront.net
-d3rr3d0n31t48m.cloudfront.net
-dfaikhkm.xyz
+deapi.afreecatv.com
 dmg-dd.oss-accelerate.aliyuncs.com
-dorkingvoust.com
-farmagegaudful.com
 februaryreductionapplet.com
-forseekvalouwe.com
 fpb1.apple886.com
-ganon.yahoo.com
-geo.yahoo.com
-grubsnuchale.com
-hauganes.net
 iadsdk.apple.com
 ib.snssdk.com
-imgcacaca.vip
-informer.yandex.ru
-iteneanrhina.com
-jill.fc.yahoo.com
 jpaasne.e.shifen.com
-lerotminored.com
 log.strm.yandex.ru
-lvjtiaa.xyz
 marketingsolutions.yahoo.com
-mc.yandex.ru
-mdqpkdne.xyz
 mediaappletree.com
-miwhethi.xyz
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-mwandlx.top
-nol.yahoo.com
-phidianbesmut.com
-pinguinmomma.com
 pr.comet.yahoo.com
-pubgw.yahoo.com
-pv.sohu.com
-ragerystenchy.com
-ropedsawwort.com
+reqde.afreecatv.com
 rrf.fat1domain1
+scfsdvc.com
 shackapple.com
-shellypartile.com
-shivateicher.com
-slimlyeneas.com
 sortyellowapples.com
 stats.video.search.yahoo.com
 sub.powerapple.com
-sugar.zhihu.com
-supportmetrics.apple.com
-test.vast
 theapple.site
-thongsalhagi.com
-uncannyuneaths.com
-upbuoyearfuls.com
-visit.webhosting.yahoo.com
-weirmelamin.com
-whsledorking.com
+v88yaat.xyz
 wondefulapplend.com
-writhehawm.com
 wzjs1.oss-accelerate.aliyuncs.com
+ynlfpyeifc.com
 youtube.local
 zupee.cim
 10.10.34.35
@@ -350,6 +294,7 @@ assets.adobedtm.com
 assets.dialogue.signify.com
 assets.landerlabs.io
 assets.newsletters.signify.com
+atkins.vo.llnwd.net
 attenhance.com
 authorne.info
 avavwz.com
@@ -579,6 +524,7 @@ e-boys-store.jp
 e.917zf.com
 eatcells.com
 edu.jujiaxiansheng.com
+edwlifes.vo.llnwd.net
 eee.dada8828.com
 eee771.com
 ehousewife.net
@@ -640,7 +586,6 @@ gtssl-aia.geotrust.com
 guangyukeji.com
 guanjia.qq.com
 guowaidiaocha.com
-gvod.aiseejapp.atianqi.com
 h1.xysibu.cn
 h163e.com
 h5.7vyou.com
@@ -945,7 +890,6 @@ secure.bstlnk.com
 secure.nicemilfass.com
 secure.sweetasianjuice.com
 secure.vkontakte.ru
-securefamilylink.wireless.att.com
 secureimage.securedataimages.com
 securejoinsite.com
 secureldrtrack.com
@@ -984,6 +928,7 @@ static.reallatinaexposed.com
 static.reallesbianexposed.com
 static.user-grey.com
 static.youzu.com
+statistics.videofarm.daum.net
 stats.debatdirect.tweedekamer.nl
 status.digicert.com
 storage.anastasiadate.com
@@ -9216,7 +9161,6 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
-tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -11475,6 +11419,8 @@ zzwajufm.com
 zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
+gvod.aiseejapp.atianqi.com
+tat.pandora.xiaomi.com
 39d83s.com
 aboard.apilocate.amap.com
 access.open.uc.cn
@@ -11532,22 +11478,49 @@ wvvvvvvw.zhongchaoyinshua.com
 wx.yubangsmart.com
 xc.xiyqjea.cn
 xg.tjwmtrw.cn
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 a8clk.mapple-tour.com
 ad.kddi-fs.com
+adfox.yandex.ru
+adsdk.yandex.ru
+an.yandex.ru
+apple.www.letv.com
+applets.ebxcdn.com
+attractionapples.com
+awaps.yandex.ru
+bats.video.yahoo.com
+bs.yandex.ru
 c.thredup.com
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
 ec.thredup.com
+ganon.yahoo.com
+geo.yahoo.com
+informer.yandex.ru
 iob.imgur.com
+jill.fc.yahoo.com
 listen.tunein.com
+log.klook.com
 m.varagesale.com
+mc.yandex.ru
 metrics.apple.com
+nol.yahoo.com
+pubgw.yahoo.com
+pv.sohu.com
 ras.yahoo.com
 retcode.taobao.com
+securefamilylink.wireless.att.com
 securemetrics.apple.com
 securemvt.apple.com
 securemvt.apple.com.cn
+sugar.zhihu.com
+supportmetrics.apple.com
 test-listen.tunein.com
+test.vast
 tmx.bestbuy.com
 uglwov.logic-immo.com
+visit.webhosting.yahoo.com
 woutkw.type.jp
 .0-000.store
 .0.code.cotsta.ru
@@ -11784,6 +11757,7 @@ woutkw.type.jp
 .101c4e5a51.com
 .101com.com
 .101m3.com
+.101order.com
 .1024mzs.pw
 .103092804.com
 .1035360789.rsc.cdn77.org
@@ -11998,6 +11972,7 @@ woutkw.type.jp
 .194b7af8c3.com
 .19515bia.de
 .19528681.com
+.1956693026.rsc.cdn77.org
 .19805d2bcb.com
 .19869.com
 .198game.com
@@ -12230,6 +12205,7 @@ woutkw.type.jp
 .247-inc.net
 .247blinds.fr
 .247ilabs.com
+.247media.com
 .247playz.com
 .247realmedia.com
 .247support.adtech.fr
@@ -12255,6 +12231,7 @@ woutkw.type.jp
 .24new.ru
 .24newstech.com
 .24ora.eu
+.24pm-affiliation.com
 .24productions.info
 .24s1b0et1.de
 .24smi.net
@@ -13028,6 +13005,7 @@ woutkw.type.jp
 .5vcl2z9la7.com
 .5visions.com
 .5vpbnbkiey24.com
+.5vuk.xyz
 .5wapp.com
 .5wuefo9haif3.com
 .5xanz2dxcn.ru
@@ -13765,7 +13743,6 @@ woutkw.type.jp
 .a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 .a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 .a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
-.a.76674bdad304297eda3d325f449f6f49.com
 .a.777n.com
 .a.78yx.net
 .a.91nets.cn
@@ -13831,7 +13808,6 @@ woutkw.type.jp
 .a.ucoz.ru
 .a.vfghd.com
 .a.vtvdigital.vn
-.a.websponsors.com
 .a.wishabi.com
 .a.wzu.com
 .a.xanga.com
@@ -13884,6 +13860,7 @@ woutkw.type.jp
 .a3141de4a0.com
 .a317654204.com
 .a32a.com.cn
+.a3595ccd38.com
 .a39fa0bea6.com
 .a3b8be1b5b.com
 .a3h.de
@@ -14198,6 +14175,7 @@ woutkw.type.jp
 .abyamaskor.com
 .abyssesbathman.com
 .abyssmedia.fr
+.abz.com
 .ac-crerteil.fr
 .ac-strasboourg.fr
 .ac-versdailles.fr
@@ -14502,6 +14480,7 @@ woutkw.type.jp
 .ad-shield.io
 .ad-site55.net
 .ad-souk.com
+.ad-space.net
 .ad-spire.net
 .ad-splash.hktvmall.com
 .ad-sponsor.com
@@ -14517,6 +14496,7 @@ woutkw.type.jp
 .ad-tool.com
 .ad-track.jp
 .ad-u.com
+.ad-up.com
 .ad-us.24hstatic.com
 .ad-vice.biz
 .ad-vortex.com
@@ -14530,6 +14510,7 @@ woutkw.type.jp
 .ad.4ertik.porn
 .ad.71i.de
 .ad.abcnews.com
+.ad.abctv.com
 .ad.abema.io
 .ad.aboutwebservices.com
 .ad.abum.com
@@ -14555,6 +14536,7 @@ woutkw.type.jp
 .ad.cauly.co.kr
 .ad.cbonds.info
 .ad.ccement.com
+.ad.centrum.cz
 .ad.cgi.cz
 .ad.chieuhoa.com
 .ad.choiceradio.com
@@ -14562,9 +14544,11 @@ woutkw.type.jp
 .ad.correioweb.com.br
 .ad.ddo.jp
 .ad.deviantart.com
+.ad.digitallook.com
 .ad.dl.mainpost.de
 .ad.dline.com.tr
 .ad.doganburda.com
+.ad.domainfactory.de
 .ad.donanimhaber.com
 .ad.e-kolay.net
 .ad.eglenced.com
@@ -14605,19 +14589,23 @@ woutkw.type.jp
 .ad.holmesmind.com
 .ad.horvitznewspapers.net
 .ad.hutor.ru
+.ad.hyena.cz
 .ad.icheck.com.vn
 .ad.iinfo.cz
+.ad.infoseek.com
 .ad.inter-edu.com
 .ad.iplayer.org
 .ad.ir.ru
 .ad.jacotei.com.br
 .ad.jamba.pt
 .ad.jamster.ca
+.ad.jetsoftware.com
 .ad.jokeroo.com
 .ad.jorte.com
 .ad.juksy.com
 .ad.kataweb.it
 .ad.kau.li
+.ad.keenspace.com
 .ad.kimcartoon.si
 .ad.kinogo-kinopoisk.net
 .ad.kinozal.website
@@ -14640,9 +14628,9 @@ woutkw.type.jp
 .ad.leap.app
 .ad.letmeads.com
 .ad.lgappstv.com
-.ad.linkprice.com
 .ad.liveinternet.ru
 .ad.logro.com.tr
+.ad.lupa.cz
 .ad.mastermedia.ru
 .ad.mediaprimaplus.com.my
 .ad.mediastorm.hu
@@ -14652,6 +14640,7 @@ woutkw.type.jp
 .ad.moo-mam-tai.com
 .ad.moscowtimes.ru
 .ad.mox.tv
+.ad.musicmatch.com
 .ad.myinstashot.com
 .ad.mynetreklam.com.streamprovider.net
 .ad.nachtagenten.de
@@ -14739,6 +14728,7 @@ woutkw.type.jp
 .ad.weplayer.cc
 .ad.woman.mynavi.jp
 .ad.wynk.in
+.ad.wz.cz
 .ad.xdomain.ne.jp
 .ad.xmovies8.si
 .ad.xrea.com
@@ -14764,7 +14754,7 @@ woutkw.type.jp
 .ad1.emule-project.org
 .ad1.gamezone.com
 .ad1.hotel.com
-.ad1.lbn.ru
+.ad1.kde.cz
 .ad1.popcap.com
 .ad1.ru
 .ad10.focalink.com
@@ -14791,7 +14781,7 @@ woutkw.type.jp
 .ad2.firehousezone.com
 .ad2.hotel.com
 .ad2.iinfo.cz
-.ad2.lbn.ru
+.ad2.lupa.cz
 .ad2.nationalreview.com
 .ad2.netriota.hu
 .ad2.nmm.de
@@ -14808,13 +14798,11 @@ woutkw.type.jp
 .ad2upapp.com
 .ad3.eu
 .ad3.iinfo.cz
-.ad3.lbn.ru
 .ad3.nationalreview.com
 .ad3.rambler.ru
 .ad3.xrea.com
 .ad399fae94.com
 .ad4.com.cn
-.ad4.lbn.ru
 .ad4.speedbit.com
 .ad41.atlas.cz
 .ad4989.co.kr
@@ -14827,7 +14815,6 @@ woutkw.type.jp
 .ad4mat.net
 .ad4partners.com
 .ad4sell.com
-.ad5.lbn.ru
 .ad5.udn.com
 .ad5lm.net
 .ad5track.com
@@ -14923,6 +14910,7 @@ woutkw.type.jp
 .adbomb.ru
 .adbooth.com
 .adbooth.net
+.adbot.com
 .adbot.theonion.com
 .adbottw.net
 .adbox.lv
@@ -14981,6 +14969,7 @@ woutkw.type.jp
 .adcell.io
 .adcent.jp
 .adcenter.io
+.adcenter.net
 .adcentric.randomseed.com
 .adcentriconline.com
 .adcentrum.net
@@ -14998,6 +14987,7 @@ woutkw.type.jp
 .adclear.net
 .adclear.teufel.de
 .adclerks.com
+.adclick.com
 .adclick.pk
 .adclick.se
 .adclickafrica.com
@@ -15012,6 +15002,7 @@ woutkw.type.jp
 .adcloud.net
 .adcocktail.com
 .adcolo.com
+.adcomplete.com
 .adcomplete.ru
 .adconfer.com
 .adconfigproxy.azurewebsites.net
@@ -15029,6 +15020,7 @@ woutkw.type.jp
 .adcrowd.com
 .adcryp.to
 .adcsh.cfd
+.adcycle.com
 .adcycle.footymad.net
 .add.f5haber.com
 .add.in.ua
@@ -15064,6 +15056,7 @@ woutkw.type.jp
 .addkt.com
 .addlog.thuvienphapluat.vn
 .addlv.smt.docomo.ne.jp
+.addme.com
 .addnow.com
 .addoer.com
 .addonsmash.com
@@ -15164,6 +15157,7 @@ woutkw.type.jp
 .adflare.jp
 .adflazz.com
 .adflex.vn
+.adflight.com
 .adflow.ru
 .adfly.vn
 .adfoc.us
@@ -15258,11 +15252,13 @@ woutkw.type.jp
 .adimage.guardian.co.uk
 .adimage.media
 .adimage.sphdigital.com
+.adimages.been.com
 .adimages.carsoup.com
 .adimages.earthweb.com
 .adimages.homestore.com
 .adimages.mp3.com
 .adimages.omroepzeeland.nl
+.adimages.sanomawsoy.fi
 .adimg.activeadv.net
 .adimg.com.com
 .adimgs.sapo.pt
@@ -15446,6 +15442,7 @@ woutkw.type.jp
 .admeta.com
 .admetric.io
 .admetricspro.com
+.admex.com
 .admez.com
 .admicro.vn
 .admicro1.vcmedia.vn
@@ -15489,6 +15486,7 @@ woutkw.type.jp
 .admobile.top
 .admon.pro
 .admondom.ru
+.admonitor.com
 .admost-banner.b-cdn.net
 .admost.com
 .admothreewallent.com
@@ -15594,6 +15592,7 @@ woutkw.type.jp
 .adorazanna.com
 .adoric-om.com
 .adoric.com
+.adorigin.com
 .adorika.com
 .adorika.net
 .adorion.net
@@ -15702,6 +15701,7 @@ woutkw.type.jp
 .adrenovate.com
 .adrent.net
 .adreport.de
+.adreporting.com
 .adrequest.net
 .adrequests.com
 .adresellers.com
@@ -15808,7 +15808,6 @@ woutkw.type.jp
 .ads.adstream.com.ro
 .ads.advance.net
 .ads.adverline.com
-.ads.adworldnetwork.com
 .ads.affiliate.legolas.bet
 .ads.affiliates.match.com
 .ads.ahds.ac.uk
@@ -15913,7 +15912,6 @@ woutkw.type.jp
 .ads.cleveland.com
 .ads.clickability.com
 .ads.clickad.com.pl
-.ads.clickagents.com
 .ads.clubzone.com
 .ads.cnixon.com
 .ads.cnngo.com
@@ -16256,7 +16254,6 @@ woutkw.type.jp
 .ads.paxnet.co.kr
 .ads.paymonex.net
 .ads.peel.com
-.ads.pennyweb.com
 .ads.people.com.cn
 .ads.periodistadigital.com
 .ads.persgroep.net
@@ -17105,6 +17102,7 @@ woutkw.type.jp
 .adv.vz.ru
 .adv.webmd.com
 .adv.wp.pl
+.adv.yo.cz
 .adv225489.ru
 .adv457895.ru
 .adv679854.ru
@@ -17132,6 +17130,7 @@ woutkw.type.jp
 .advantagespire.com
 .advanter.ru
 .advard.com
+.advariant.com
 .advarkads.com
 .advast.sibnet.ru
 .advbroker.ru
@@ -17255,6 +17254,7 @@ woutkw.type.jp
 .adworkmedia.net
 .adworldmedia.com
 .adworldmedia.net
+.adworldnetwork.com
 .adworx.at
 .adworx.nl
 .adwstats.com
@@ -17397,6 +17397,7 @@ woutkw.type.jp
 .afdjljiyagf.ru
 .afdplay.xyz
 .afdyfxfrwbfy.com
+.afearprevoid.com
 .aff-handler.com
 .aff-jp.dxlive.com
 .aff-online.com
@@ -17474,6 +17475,7 @@ woutkw.type.jp
 .affiliate.rakuten.co.jp
 .affiliate.rusvpn.com
 .affiliate.sonicsense.jp
+.affiliate.travelnow.com
 .affiliate.treated.com
 .affiliateedge.com
 .affiliateedge.eu
@@ -17488,7 +17490,6 @@ woutkw.type.jp
 .affiliatenetwork.co.za
 .affiliateone.jp
 .affiliatepartners.com
-.affiliatepluginintegration.cj.com
 .affiliateprogramma.eu
 .affiliates-pro.com
 .affiliates.a2hosting.com
@@ -17663,6 +17664,7 @@ woutkw.type.jp
 .agapaezeal.com
 .agaso.de
 .agatarainpro.com
+.agathacd.com
 .agathazanna.com
 .agatogepir.com
 .agatystuffs.com
@@ -17752,6 +17754,7 @@ woutkw.type.jp
 .agwdac.xyz
 .agweaaf.net
 .agweaaf.org
+.ah-ha.com
 .ah-qichen.com
 .ah.pricegrabber.com
 .ahabcaca.com
@@ -18650,6 +18653,7 @@ woutkw.type.jp
 .anchoicstage.com
 .anchovymedieval.com
 .anchovysuccession.com
+.anchusauredo.com
 .anciengoddize.com
 .ancientsend.com
 .ancpurqgir.com
@@ -19332,6 +19336,7 @@ woutkw.type.jp
 .areelbagwyn.com
 .areelektrosstor.com
 .arehen.com
+.areiccastano.com
 .arejoysew.com
 .arejug.xyz
 .areliux.cc
@@ -19528,6 +19533,7 @@ woutkw.type.jp
 .asforsalesr.one
 .asg.bhabhiporn.pro
 .asg.faperoni.com
+.asgardrecatch.com
 .asgclickkl.com
 .asgclickpop.com
 .asgclickpp.com
@@ -19773,7 +19779,6 @@ woutkw.type.jp
 .atixxzd.cn
 .atjgljqq.com
 .atjigglypuffor.com
-.atkins.vo.llnwd.net
 .atkmmepquia.com
 .atl-6-ga.com
 .atlanticon.fr
@@ -20104,6 +20109,7 @@ woutkw.type.jp
 .avellingand.xyz
 .avencio.de
 .avenseo.com
+.avenuea.com
 .avenuescrupuloustheological.com
 .average-champion.pro
 .avero.xyz
@@ -20737,6 +20743,7 @@ woutkw.type.jp
 .banhx.com
 .banibajury.website
 .banicywan.com
+.banik.redigy.cz
 .banisterspast.com
 .bankerconcludeshare.com
 .banki.onet.pl
@@ -20765,6 +20772,7 @@ woutkw.type.jp
 .banner.clubdicecasino.com
 .banner.cotedazurpalace.com
 .banner.coza.com
+.banner.cz
 .banner.dabi.ir
 .banner.diamondclubcasino.com
 .banner.easyspace.com
@@ -20780,13 +20788,16 @@ woutkw.type.jp
 .banner.lbs.km.ru
 .banner.linux.se
 .banner.media-system.de
+.banner.mindshare.de
 .banner.mob.hr
 .banner.monacogoldcasino.com
 .banner.newyorkcasino.com
+.banner.nixnet.cz
 .banner.noblepoker.com
 .banner.northsky.com
 .banner.oddcast.com
 .banner.orb.net
+.banner.penguin.cz
 .banner.piratos.de
 .banner.playgatecasino.com
 .banner.profile.ru
@@ -20794,6 +20805,7 @@ woutkw.type.jp
 .banner.reinstil.de
 .banner.relcom.ru
 .banner.ringofon.com
+.banner.tanto.de
 .banner.techarp.com
 .banner.thadaco.vn
 .banner.themediaplanets.com
@@ -20801,6 +20813,7 @@ woutkw.type.jp
 .banner.trangvangvietnam.com
 .banner.uto.vn
 .banner.vadian.net
+.banner.webmersion.com
 .banner.zol.ru
 .banner1.site
 .banner10.zetasystem.dk
@@ -20830,10 +20843,13 @@ woutkw.type.jp
 .bannergratis.it
 .bannerheld.de
 .bannerignition.co.za
+.bannerimage.com
 .bannerimages.0catch.com
 .bannerlandia.com.ar
 .bannerlot.com
+.bannermall.com
 .bannermanager.bnr.bg
+.bannermarkt.nl
 .bannernetwork.net
 .bannerout.com
 .bannerporno.com
@@ -20847,14 +20863,17 @@ woutkw.type.jp
 .banners.aftrk.com
 .banners.alt.com
 .banners.amigos.com
+.banners.babylon-x.com
 .banners.bol.com.br
 .banners.bol.se
 .banners.celebritybling.com
 .banners.clubseventeen.com
+.banners.czi.cz
 .banners.defenceweb.co.za
 .banners.dine.com
 .banners.etermax.com
 .banners.fastcupid.com
+.banners.freett.com
 .banners.fuckbookhookups.com
 .banners.haqqin.az
 .banners.img.uol.com.br
@@ -20863,6 +20882,7 @@ woutkw.type.jp
 .banners.instaforex.com
 .banners.iop.org
 .banners.ipotd.com
+.banners.iq.pl
 .banners.ksl.com
 .banners.livepartners.com
 .banners.mobile.yandex.net
@@ -20873,7 +20893,6 @@ woutkw.type.jp
 .banners.outpersonals.com
 .banners.passion.com
 .banners.payserve.com
-.banners.pennyweb.com
 .banners.penthouse.com
 .banners.prikol.ru
 .banners.resultonline.com
@@ -20887,11 +20906,16 @@ woutkw.type.jp
 .banners.videosz.com
 .banners.wunderground.com
 .banners.zbs.ru
+.bannerserver.com
+.bannersgomlm.com
 .bannersmall.com
 .bannersmania.com
 .bannersnack.com
 .bannersnack.fr
+.bannersng.yell.com
+.bannerspace.com
 .bannersurvey.biz
+.bannerswap.com
 .bannertesting.com
 .bannertrack.net
 .bannertracker-script.com
@@ -21496,6 +21520,7 @@ woutkw.type.jp
 .bergallgenion.com
 .bergeresdefrance.fr
 .bergfi.com
+.bergsmouflon.com
 .berhima.xyz
 .beringmedia.com
 .berkshiretoday.xyz
@@ -21841,6 +21866,7 @@ woutkw.type.jp
 .big6q4y2oy.ru
 .bigads.guj.de
 .bigappboi.com
+.bigbangmedia.com
 .bigbolz.com
 .bigbonga.com
 .bigbootymania.com
@@ -21913,6 +21939,7 @@ woutkw.type.jp
 .bill.agent.56.com
 .bill.agent.v-56.com
 .bill777.xyz
+.billboard.cz
 .billersdunamis.com
 .billionstarads.com
 .billservingineffective.com
@@ -21978,6 +22005,7 @@ woutkw.type.jp
 .birthsenseal.uno
 .birtuwhaim.com
 .birung.club
+.bis8j.com
 .bisafniv.space
 .biscuit-taste.net
 .bisetsoliped.com
@@ -22301,6 +22329,7 @@ woutkw.type.jp
 .blxezur.cn
 .blxfqq.com
 .blzz.xyz
+.bm.annonce.cz
 .bm23.com
 .bm324.com
 .bm999999.com
@@ -22509,6 +22538,7 @@ woutkw.type.jp
 .bookodus.xyz
 .bookofsex.com
 .bookpdf.services
+.bookpostponemoreover.com
 .bookstaircasenaval.com
 .booleanfalces.website
 .boolff.com
@@ -22614,6 +22644,7 @@ woutkw.type.jp
 .boursidirect.fr
 .bousedirect.fr
 .boustahe.com
+.bousyshock.com
 .boutique-papillon.fr
 .bouygiestelecom.fr
 .bovhzz.xyz
@@ -23833,9 +23864,11 @@ woutkw.type.jp
 .cashdorado.de
 .cashengines.com
 .cashewsforlife208.com
+.cashfiesta.com
 .cashflowmarketing.com
 .cashlayer.com
 .cashmylinks.com
+.cashpartner.com
 .cashpartners.eu
 .cashprom.ru
 .cashreportz.com
@@ -23856,6 +23889,7 @@ woutkw.type.jp
 .casmundo.fr
 .caspion.com
 .casserolehunchcontract.com
+.cassetteflask.com
 .cassettelancefriday.com
 .cassiusazide.com
 .cassonjacamar.digital
@@ -24053,7 +24087,6 @@ woutkw.type.jp
 .cdn.234doo.com
 .cdn.88-f.net
 .cdn.ad.citynews.it
-.cdn.adbert.info
 .cdn.adfenix.com
 .cdn.adservingsolutionsinc.com
 .cdn.adt356.com
@@ -24345,6 +24378,7 @@ woutkw.type.jp
 .cesfttajihif.top
 .cesiumsemboite.com
 .ceskydomov.alias.ngs.modry.cz
+.cestibegster.com
 .cesurasfratchy.com
 .ceteembathe.com
 .cetichin.com
@@ -24818,6 +24852,7 @@ woutkw.type.jp
 .cinemahd.info
 .cinemasouslesetoiles.fr
 .cinemensenoy.xyz
+.cineolesloth.com
 .cinforama.fr
 .cintnetworks.com
 .cioccmit.cyou
@@ -24874,6 +24909,7 @@ woutkw.type.jp
 .cixldfrkayl.com
 .cizare.xyz
 .cizion.com
+.cj.com
 .cj.madeleine.de
 .cj7g.top
 .cja-1223.cc
@@ -25055,6 +25091,7 @@ woutkw.type.jp
 .click.em.blizzard.com
 .click.email.bbc.com
 .click.email.sonos.com
+.click.fool.com
 .click.go2net.com
 .click.hookupinyourcity.com
 .click.i.southwesternrailway.com
@@ -25086,6 +25123,7 @@ woutkw.type.jp
 .clickads.name
 .clickadv.it
 .clickadz.com
+.clickagents.com
 .clickagy.com
 .clickaider.com
 .clickaine.com
@@ -25099,11 +25137,13 @@ woutkw.type.jp
 .clickauditor.net
 .clickaval.com
 .clickbangpop.com
+.clickbank.com
 .clickbaza.com
 .clickbet88.com
 .clickbooth.com
 .clickboothlnk.com
 .clickbrainiacs.com
+.clickbrokers.com
 .clickbux.ru
 .clickcanoe.com
 .clickcash.com
@@ -25134,6 +25174,7 @@ woutkw.type.jp
 .clickguardian.app
 .clickguardian.co.uk
 .clickhere.ru
+.clickhereforcellphones.com
 .clickinc.com
 .clickintext.com
 .clickintext.net
@@ -25177,6 +25218,7 @@ woutkw.type.jp
 .clicks.deliveroo.co.uk
 .clicks.deskbabes.com
 .clicks.emarketmakers.com
+.clicks.equantum.com
 .clicks.eventbrite.com
 .clicks.h.hepsiburada.com
 .clicks.mods.de
@@ -25226,6 +25268,7 @@ woutkw.type.jp
 .clicktracker.alloymarketing.com
 .clicktracklink.com
 .clicktracks.webmetro.com
+.clicktrade.com
 .clicktripz.com
 .clicktroute.com
 .clicktrpro.com
@@ -25242,6 +25285,7 @@ woutkw.type.jp
 .clickx.io
 .clickxchange.com
 .clickyab.com
+.clickz.com
 .clickzzs.nl
 .client-telemetry.roblox.com
 .client.botchk.net
@@ -25498,6 +25542,7 @@ woutkw.type.jp
 .cnvuspci.com
 .cnwav.com
 .cnwebperformance.biz
+.cnwmsbjmcth.com
 .cnxweb.com
 .cny.yoyo.org
 .cnyharo.ru
@@ -25738,6 +25783,7 @@ woutkw.type.jp
 .cologu.com
 .colombomyeloid.live
 .colonistnobilityheroic.com
+.colonize.com
 .colonuscropped.com
 .colorfulafterthought.com
 .colorfullank.com
@@ -25804,6 +25850,7 @@ woutkw.type.jp
 .commitamulet.com
 .commonvivacious.com
 .communications.melitaltd.com
+.compactbanner.com
 .compactyunker.com
 .company-target.com
 .comparativevegetables.com
@@ -26269,6 +26316,7 @@ woutkw.type.jp
 .count24.de
 .countar.de
 .countby.com
+.counted.com
 .counter-city.de
 .counter-go.de
 .counter-gratis.com
@@ -26612,6 +26660,7 @@ woutkw.type.jp
 .crazyegg.com
 .crazyhell.com
 .crazylead.com
+.crazypopups.com
 .crbbgate.com
 .crdefault.link
 .crdefault1.com
@@ -26763,6 +26812,7 @@ woutkw.type.jp
 .crunchybears.com
 .crushedignoring.com
 .crushlaunces.digital
+.crusilyparonym.com
 .crutop.nu
 .crux.songline.com
 .crxnegluvjquvlp.xyz
@@ -26900,6 +26950,7 @@ woutkw.type.jp
 .cuculf.name
 .cucumberabbotrecommended.com
 .cucuyoalkoxy.com
+.cuddleangkhak.com
 .cuddlethehyena.com
 .cuddly-membership.pro
 .cuder.fr
@@ -27052,6 +27103,7 @@ woutkw.type.jp
 .cxjrsb.com
 .cxmolk.com
 .cxmygp.xyz
+.cxnadcribh.com
 .cxnre.xyz
 .cxovwczosr.com
 .cxp1c050.cn
@@ -27065,6 +27117,7 @@ woutkw.type.jp
 .cya2.net
 .cyad456.com
 .cyan92010.com
+.cyberbounty.com
 .cyberduck.fr
 .cyberfaery.com
 .cybermonitor.com
@@ -27161,6 +27214,7 @@ woutkw.type.jp
 .d10vy5gom1ed53.cloudfront.net
 .d10wfab8zt419p.cloudfront.net
 .d10zmv6hrj5cx1.cloudfront.net
+.d1180od816jent.cloudfront.net
 .d11a2fzhgzqe7i.cloudfront.net
 .d11bdev7tcn7wh.cloudfront.net
 .d11enq2rymy0yl.cloudfront.net
@@ -27178,6 +27232,7 @@ woutkw.type.jp
 .d13jhr4vol1304.cloudfront.net
 .d13k7prax1yi04.cloudfront.net
 .d13nu0oomnx5ti.cloudfront.net
+.d13pxqgp3ixdbh.cloudfront.net
 .d13qwbj37sfx89.cloudfront.net
 .d13vul5n9pqibl.cloudfront.net
 .d140sbu1b1m3h0.cloudfront.net
@@ -27386,6 +27441,7 @@ woutkw.type.jp
 .d1ukp4rdr0i4nl.cloudfront.net
 .d1upt0rqzff34l.cloudfront.net
 .d1uw69x4c2zrim.cloudfront.net
+.d1ux93ber9vlwt.cloudfront.net
 .d1uy7uzra011au.cloudfront.net
 .d1uzjiv6zzdlbc.cloudfront.net
 .d1voskqidohxxs.cloudfront.net
@@ -27481,6 +27537,7 @@ woutkw.type.jp
 .d28quk6sxoh2w5.cloudfront.net
 .d28s7kbgrs6h2f.cloudfront.net
 .d28u86vqawvw52.cloudfront.net
+.d28uhswspmvrhb.cloudfront.net
 .d29bsjuqfmjd63.cloudfront.net
 .d29dbajta0the9.cloudfront.net
 .d29dzo8owxlzou.cloudfront.net
@@ -27866,6 +27923,7 @@ woutkw.type.jp
 .d3rkkddryl936d.cloudfront.net
 .d3rlh0lneatqqc.cloudfront.net
 .d3rp5jatom3eyn.cloudfront.net
+.d3rr3d0n31t48m.cloudfront.net
 .d3rxqouo2bn71j.cloudfront.net
 .d3s7ggfq1s6jlj.cloudfront.net
 .d3sbxpiag177w8.cloudfront.net
@@ -27917,7 +27975,6 @@ woutkw.type.jp
 .d5onopbfw009h.cloudfront.net
 .d5pb47xzjz3fc.cloudfront.net
 .d5wxfe8ietrpg.cloudfront.net
-.d60y8cj1tje2a.cloudfront.net
 .d6262.com
 .d63a3au5lqmtu.cloudfront.net
 .d65948f49b.com
@@ -28865,6 +28922,7 @@ woutkw.type.jp
 .df5b.top
 .df80k0z3fi8zg.cloudfront.net
 .dfadas13.com
+.dfaikhkm.xyz
 .dfd1ec534a.com
 .dfdaaa12.com
 .dfdjilnzqgtow.com
@@ -28887,6 +28945,7 @@ woutkw.type.jp
 .dfpstitialtag.com
 .dfsd22.com
 .dfsvhv88.com
+.dftckxqklqe.xyz
 .dftoutiao.com
 .dfvarz.xyz
 .dfvvx58.com
@@ -29204,6 +29263,7 @@ woutkw.type.jp
 .disconnectedponder.com
 .discostcarafon.website
 .discountads.net
+.discountclick.com
 .discountminds.com
 .discountryvc.club
 .discounts4shops.com
@@ -29670,6 +29730,7 @@ woutkw.type.jp
 .dope.autos
 .dopiesttrotter.com
 .dopor.info
+.doprodavec.ru
 .doptik.ru
 .doracms.cn
 .dorama.site
@@ -29678,6 +29739,7 @@ woutkw.type.jp
 .doremi.ink
 .dorianbaroque.org
 .dorimnews.com
+.dorkingvoust.com
 .dormyawape.com
 .dorothydrawing.com
 .dorothyfirsthandencyclopaedia.com
@@ -30122,6 +30184,7 @@ woutkw.type.jp
 .duncip.com
 .dunct.com
 .dunderaffiliates.com
+.dunefu.uno
 .dunganof.com
 .dunhilltraveldeals.com
 .dunlopfermi.com
@@ -30513,6 +30576,7 @@ woutkw.type.jp
 .easytic.fr
 .easytomessage.com
 .easyvids.info
+.easyvids.space
 .eatcppcsmnkpdfk.xyz
 .eatinerhitles.xyz
 .eationslieem.xyz
@@ -30609,6 +30673,7 @@ woutkw.type.jp
 .ecookie.nl
 .ecortb.com
 .ecound.com
+.ecoupons.com
 .ecpmrocks.com
 .ecpms.net
 .ecrwqu.com
@@ -30706,7 +30771,6 @@ woutkw.type.jp
 .edvrfjrrxk.com
 .edwad.co
 .edwate.com
-.edwlifes.vo.llnwd.net
 .edxdylklmevlfr.com
 .edxhxu.com
 .edzyhx.cn
@@ -30985,6 +31049,7 @@ woutkw.type.jp
 .elinorparcel.com
 .elite-s001.com
 .elitedollars.com
+.elitetoplist.com
 .elitics.com
 .elitistrawirresistible.com
 .elizaguarapo.com
@@ -31253,6 +31318,7 @@ woutkw.type.jp
 .entativesath.one
 .entek.fr
 .enter-system.com
+.entercasino.com
 .entertainedshook.com
 .entertainment-specials.com
 .enthusiasticsabotage.com
@@ -31351,6 +31417,7 @@ woutkw.type.jp
 .epom.com
 .epomads2.4shared.com
 .epotaidhdbg.com
+.epoun.top
 .epp.bih.net.ba
 .eppmedia.si
 .epresententifi.com
@@ -31471,6 +31538,7 @@ woutkw.type.jp
 .eryservic.online
 .erysilenitmanb.com
 .esa-reg-eup.myoppo.com
+.esanciw.top
 .esandalargere.com
 .esathyasesume.info
 .esathyaspsu.xyz
@@ -31641,6 +31709,7 @@ woutkw.type.jp
 .etxjbxs.top
 .etyper.com
 .etzbnfuigipwvs.ru
+.eu-adcenter.net
 .eu-global-online.com
 .eu-global.com
 .eu-survey.com
@@ -31865,8 +31934,10 @@ woutkw.type.jp
 .exceptexchange.com
 .excessivetighten.com
 .excfig.xyz
+.exchange-it.com
 .exchange.informer.ua
 .exchange4media.com
+.exchangead.com
 .exchangecash.de
 .exchangeclicksonline.com
 .exchangediscreditmast.com
@@ -31923,8 +31994,11 @@ woutkw.type.jp
 .existsdesist.com
 .existsvolatile.com
 .exit-x.net
+.exit76.com
 .exitbee.com
+.exitexchange.com
 .exitexplosion.com
+.exitfuel.com
 .exitintel.com
 .exitmonitor.com
 .exixnifdcwo.xyz
@@ -31991,6 +32065,7 @@ woutkw.type.jp
 .exposuremixed.com
 .express-submit.de
 .expressalike.com
+.expressproducer.com
 .expuge.com
 .expugi.com
 .expwyredocks.com
@@ -32351,6 +32426,7 @@ woutkw.type.jp
 .fardingsoiling.com
 .fargoodgarotes.digital
 .fark.com
+.farmagegaudful.com
 .farmcrapsubsist.com
 .farmer.wego.com
 .farmerfireman.com
@@ -32566,6 +32642,7 @@ woutkw.type.jp
 .feedaty.com
 .feedback.microsoft-hohm.com
 .feedbackexplorer.com
+.feedbackresearch.com
 .feedblitz.com
 .feedcat.net
 .feedgist.com
@@ -32843,6 +32920,7 @@ woutkw.type.jp
 .findandtry.com
 .findanonymous.com
 .findbetterresults.com
+.findcommerce.com
 .finder.cox.net
 .finderlocator.com
 .findgoodfood.co
@@ -32857,6 +32935,7 @@ woutkw.type.jp
 .findromanticdates.com
 .findsexguide.com
 .findswiftresults.com
+.findyourcasino.com
 .finedergotic.com
 .finema-net.cdn.ampproject.org
 .finema.net
@@ -33094,6 +33173,7 @@ woutkw.type.jp
 .flow8free.com
 .flower.bg
 .flowers.moex.com
+.flowgo.com
 .flowln.com
 .flowplayer.space
 .flowpubdom.info
@@ -33360,6 +33440,7 @@ woutkw.type.jp
 .forognal.com
 .forprimeapeon.com
 .forrealzpiratebay.org
+.forseekvalouwe.com
 .forseisemelo.top
 .forsi.net
 .forsookjaeger.com
@@ -33487,6 +33568,7 @@ woutkw.type.jp
 .frecnhweb.fr
 .freddyman.com
 .fredmoresco.com
+.free-banners.com
 .free-box.fr
 .free-counter.co.uk
 .free-counter.com
@@ -33510,6 +33592,7 @@ woutkw.type.jp
 .freeadultcomix.com
 .freeavalanche.ru
 .freebaitar.com
+.freebanner.com
 .freebiegb.co.uk
 .freebiesurveys.com
 .freebitco.in
@@ -33590,6 +33673,7 @@ woutkw.type.jp
 .freewheel.tv
 .freezeanything.com
 .freezeskaikara.com
+.freezingbuilding.com
 .fref.fr
 .fregtrsatnt.com
 .freihit.de
@@ -34016,6 +34100,7 @@ woutkw.type.jp
 .galaks.io
 .galanasorra.com
 .galaxiemedia.fr
+.galaxien.com
 .galaxymeet.ru
 .galaxyvandas.website
 .galeaeevovae.com
@@ -34587,6 +34672,7 @@ woutkw.type.jp
 .gfdh56.site
 .gfdrkskillso.xyz
 .gfghr.com
+.gfhkcfdqaongo.com
 .gfjhgfjfebhccgafaed.ru
 .gfkhapiuxjkspbq.xyz
 .gflcsiot.com
@@ -35003,6 +35089,7 @@ woutkw.type.jp
 .gnhunbia.rest
 .gniunbic.rest
 .gnjunbio.rest
+.gnjxesyfensbh.com
 .gnkunbie.rest
 .gnlunbii.rest
 .gnmunbir.rest
@@ -35120,6 +35207,7 @@ woutkw.type.jp
 .goiagm.xyz
 .goikbnjksdf.com
 .goinformer.com
+.goingplatinum.com
 .goingprayer.com
 .goingsilltrusty.com
 .goingtoothachemagician.com
@@ -35325,6 +35413,7 @@ woutkw.type.jp
 .gowoman.ru
 .goxmrminer.com
 .goyetteconnelly.bid
+.gp.dejanews.com
 .gparted.fr
 .gplinks.in
 .gpm-mon-sg.bytegsdk.com
@@ -35582,6 +35671,7 @@ woutkw.type.jp
 .grtyj.com
 .grubfast.com
 .grubrebukevenus.com
+.grubsnuchale.com
 .grudgemotivate.com
 .grudgewallet.com
 .grudjfaasncjvfm.com
@@ -35768,6 +35858,7 @@ woutkw.type.jp
 .guwfusqa.com
 .guxsxexlkdk.xyz
 .guzhimian.fun
+.guzsjdl.cn
 .gv4e.top
 .gvapp.ru
 .gvcmiz3vze3n.com
@@ -35949,6 +36040,7 @@ woutkw.type.jp
 .haijosho.net
 .haikcarlage.com
 .hailerroloway.com
+.haili-spitzer.com
 .hailiao520.com
 .hailstonenerve.com
 .hairoak.com
@@ -36145,6 +36237,7 @@ woutkw.type.jp
 .hatter-story.info
 .hatwasallo.com
 .hauchiwu.com
+.hauganes.net
 .hauglees.net
 .hauihsahuieoi398u89q.click
 .haulmserinys.com
@@ -36155,6 +36248,7 @@ woutkw.type.jp
 .hauntcontribution.com
 .hauphuchaum.com
 .hausic.com
+.hauthoun.xyz
 .hauufhgezl.com
 .havamedia.net
 .havan3eab9row2n.com
@@ -36734,12 +36828,14 @@ woutkw.type.jp
 .hitmatic.com
 .hitmeter.ru
 .hitmir.ru
+.hitometer.com
 .hits.e.cl
 .hits.guardian.co.uk
 .hits.io
 .hits.sh
 .hits.theguardian.com
 .hits2u.com
+.hits4me.com
 .hitslog.com
 .hitsniffer.com
 .hitsprocessor.com
@@ -37446,6 +37542,7 @@ woutkw.type.jp
 .hybrid.ai
 .hybridgermandespicable.com
 .hycantyoubelik.com
+.hycantyoubelike.com
 .hydnoraraasch.tech
 .hydragrouge.com
 .hydrahydra.ir
@@ -37591,6 +37688,7 @@ woutkw.type.jp
 .iabgqd.cn
 .iad.anm.co.uk
 .iadmat.nosdn.127.net
+.iadnet.com
 .iadoremakingpics.com
 .iadpush.com
 .iads.js
@@ -38065,6 +38163,7 @@ woutkw.type.jp
 .img11.biyan8.com
 .img301.com
 .imgapp.top
+.imgcacaca.vip
 .imgcdnbet.com
 .imgfeedget.com
 .imghost.pics
@@ -38565,6 +38664,7 @@ woutkw.type.jp
 .instantbannercreator.com
 .instantcash.ru
 .instantdollarz.com
+.instantmadness.com
 .instantnewzz.com
 .instantstreetview.fr
 .instapagemetrics.com
@@ -38667,7 +38767,6 @@ woutkw.type.jp
 .internal-heart.pro
 .internalpound.com
 .internebula.net
-.internet.billboard.cz
 .internetdefenseleague.org
 .internetfuel.com
 .internetmap.info
@@ -38679,6 +38778,7 @@ woutkw.type.jp
 .interposedflickhip.com
 .interpretation-reves.fr
 .interpretprogrammesmap.com
+.interreklame.de
 .inters1img.com
 .intersads.com
 .intersd2k.com
@@ -38920,6 +39020,7 @@ woutkw.type.jp
 .iredirect.net
 .iredirr.com
 .ireideauxdwh.com
+.ireklama.cz
 .irenicaserrano.com
 .ireraisin.com
 .irethertoldimn.xyz
@@ -39056,6 +39157,7 @@ woutkw.type.jp
 .itemolgaer.com
 .itempana.site
 .itemperrycreek.com
+.iteneanrhina.com
 .itenvalve.uno
 .itespurrom.com
 .itgear.jp
@@ -39226,6 +39328,7 @@ woutkw.type.jp
 .izitizi.ru
 .izitrckr.com
 .izli.fr
+.izlunwgx.com
 .izmsj.co.jp
 .izmssk.xyz
 .izooto.com
@@ -39410,6 +39513,7 @@ woutkw.type.jp
 .jched3.com
 .jchgcipyywszqt.com
 .jckdusa.cn
+.jcount.com
 .jcreje.com
 .jcsppgv.cn
 .jcvty.cyou
@@ -39771,6 +39875,7 @@ woutkw.type.jp
 .joannalaura.com
 .joapsiro.com
 .joastous.com
+.joathaji.xyz
 .joathath.com
 .joathihandsr.xyz
 .job-info2015.ru
@@ -39786,6 +39891,7 @@ woutkw.type.jp
 .jockeryfgtu.club
 .jocowhab.com
 .jody0sora.com
+.joetec.net
 .jofbu.com
 .jogbxpg.cn
 .joggingavenge.com
@@ -40452,6 +40558,7 @@ woutkw.type.jp
 .kefeng56.com
 .kegsandremembrance.com
 .kehalim.com
+.kehbcv.top
 .kehuduan.com
 .keidweneth.com
 .keihel.com
@@ -40775,6 +40882,7 @@ woutkw.type.jp
 .klikasz-i-masz.com
 .kliklink.ru
 .kliks.affiliate4you.nl
+.kliks.nl
 .kliksaya.com
 .klipmart.com
 .klipmart.forbes.com
@@ -41120,6 +41228,7 @@ woutkw.type.jp
 .kukury2hf8nd09.com
 .kuleqasfors.one
 .kultingecauukse.pics
+.kultingecauyuksehinkitw.info
 .kumpulblogger.com
 .kumteerg.com
 .kunidaotno.xyz
@@ -41570,6 +41679,7 @@ woutkw.type.jp
 .lbbyft.cn
 .lbjc.xyz
 .lbk7p.cn
+.lbn.ru
 .lbouyguestelecom.fr
 .lbrtry.com
 .lbs.map.qq.com
@@ -41668,6 +41778,7 @@ woutkw.type.jp
 .leadin.com
 .leadinfo.net
 .leading-fishing.pro
+.leadingedgecash.com
 .leadinghunch.com
 .leadingservicesintimate.com
 .leadintel.io
@@ -41856,6 +41967,7 @@ woutkw.type.jp
 .leponde.fr
 .leptaasellus.digital
 .leroj.elitegol.tv
+.lerotminored.com
 .leroymerln.fr
 .leroymrlin.fr
 .lerrdoriak.com
@@ -42023,6 +42135,7 @@ woutkw.type.jp
 .lianyi.wang
 .liaocpa.com
 .liaran.top
+.liates.top
 .libbetpalooka.life
 .libcdn.xyz
 .libdgel.net
@@ -42114,6 +42227,7 @@ woutkw.type.jp
 .lightminer.co
 .lightningbarrelwretch.com
 .lightningcast.net
+.lightspeedcash.com
 .lightssyrupdecree.com
 .lightstep.medium.systems
 .ligninenchant.com
@@ -42238,12 +42352,14 @@ woutkw.type.jp
 .linkifier.com
 .linkit.biz
 .linkjg.cn
+.linkmanglazers.com
 .linkmepu.com
 .linkmyc.com
 .linknotification.com
 .linkoffers.net
 .linkonclick.com
 .linkpicture.com
+.linkprice.com
 .linkpulse.com
 .linkrain.com
 .linkredirect.biz
@@ -42263,6 +42379,7 @@ woutkw.type.jp
 .linkstation.de
 .linkstorm.net
 .linkstorms.com
+.linkswaper.com
 .linksynergy.com
 .linktarget.com
 .linkto.org
@@ -42467,6 +42584,7 @@ woutkw.type.jp
 .lmeexisten.xyz
 .lmgdmwyd.com
 .lmiutil.com
+.lmjwqbjmkrzyw.top
 .lmjy.us
 .lmknjb1.com
 .lmlmvip.com
@@ -43204,6 +43322,7 @@ woutkw.type.jp
 .lvecygampj.com
 .lvefyfj.cn
 .lvjoe.pw
+.lvjtiaa.xyz
 .lvkwz.com
 .lvntekpejrmtb.com
 .lvodomo.info
@@ -43720,6 +43839,7 @@ woutkw.type.jp
 .marketing.hub-js.com
 .marketing.itgeek.vn
 .marketing.modalife.com
+.marketing.nyi.net
 .marketing.osijek031.com
 .marketingcloudfx.com
 .marketingenhanced.com
@@ -43805,6 +43925,7 @@ woutkw.type.jp
 .masture.mobi
 .mataharirama.xyz
 .matchaix.net
+.matchcraft.com
 .matcheendirect.fr
 .matchendirectr.fr
 .matchendiredt.fr
@@ -43891,6 +44012,7 @@ woutkw.type.jp
 .maximherein.com
 .maximiser.net
 .maximtoaster.com
+.maximumcash.com
 .maximumductpictorial.com
 .maximus-time.net
 .maxmusics.com
@@ -44031,6 +44153,7 @@ woutkw.type.jp
 .mdqgwa.cn
 .mdqhyxe.cn
 .mdqiieoiqvn.xyz
+.mdqpkdne.xyz
 .mds.nipa.co.th
 .mdunker.gmxhome.de
 .mdvkn.com
@@ -44081,6 +44204,7 @@ woutkw.type.jp
 .medgoodfood.com
 .medhiartis.com
 .media-active.ru
+.media-adrunner.mycomputer.com
 .media-ads.zaloapp.com
 .media-angel.de
 .media-click.ru
@@ -44146,6 +44270,7 @@ woutkw.type.jp
 .mediaforgews.com
 .mediafuse.com
 .mediagauge.com
+.mediageneral.com
 .mediaglacier.com
 .mediago.io
 .mediagridwork.com
@@ -44270,6 +44395,7 @@ woutkw.type.jp
 .megabc.info
 .megabestnews.net
 .megabookline.com
+.megacash.de
 .megadeliveryn.com
 .megae-aqn.com
 .megafingroup.com
@@ -44325,6 +44451,7 @@ woutkw.type.jp
 .meloads.com
 .melongetplume.com
 .melredirnxt.top
+.meltaigh.net
 .meltedacrid.com
 .melthy.fr
 .meltpiratehamlet.com
@@ -44685,6 +44812,7 @@ woutkw.type.jp
 .microsoft-ware.com
 .microsoftsupport.xyz
 .microstatic.pl
+.microticker.com
 .midan.io
 .midas-i.com
 .midas-network.com
@@ -44908,6 +45036,7 @@ woutkw.type.jp
 .mitrarank.ir
 .mittylargen.com
 .miuspzkmn.bar
+.miwhethi.xyz
 .mix1traff.ru
 .mix2ads.com
 .mixandfun.com
@@ -45834,6 +45963,7 @@ woutkw.type.jp
 .mvtracker.com
 .mvusq.xyz
 .mw6xj4.cn
+.mwandlx.top
 .mwcvu.com
 .mwihruozvmzu.com
 .mwogldx.top
@@ -46560,6 +46690,7 @@ woutkw.type.jp
 .netcrew-analysis.jp
 .netdeal.com.br
 .netdebit-counter.de
+.netdirect.nl
 .netdjs.net
 .netextra.hu
 .netfilia.com
@@ -46963,12 +47094,12 @@ woutkw.type.jp
 .nitheemp.net
 .nitmus.com
 .nitridsplurel.com
+.nitroclicks.com
 .nitrogenblissful.com
 .nitrogendetestable.com
 .nitrogeneligible.com
 .nitrokod.com
 .nitropay.com
-.nitrous.exitfuel.com
 .nitsano.ru
 .nitsche.top
 .niubixxx.com
@@ -48322,6 +48453,7 @@ woutkw.type.jp
 .one.fsylr.com
 .one.lg.ua
 .one.toumppk.cn
+.oneandonlynetwork.com
 .oneclck.net
 .onecomedyservices.com
 .onedmp.com
@@ -49056,6 +49188,7 @@ woutkw.type.jp
 .ovibospeseta.com
 .ovintic.ru
 .ovk.xceler8.io
+.ovmhwiccikr.com
 .ovoadv.com
 .ovoordie.xyz
 .ovpekubdewm.com
@@ -49114,6 +49247,7 @@ woutkw.type.jp
 .ox11.com
 .oxado.com
 .oxbbwikuttt.com
+.oxcash.com
 .oxcluster.com
 .oxen.hillcountrytexas.com
 .oxfoadv.store
@@ -49236,7 +49370,6 @@ woutkw.type.jp
 .pa-oa.com
 .pa-voyance.fr
 .pa.5.p2l.info
-.pa.afreecatv.com
 .pa.tns-ua.com
 .pa5ka.com
 .paalp.fr
@@ -49524,7 +49657,6 @@ woutkw.type.jp
 .partner-ts.groupon.net
 .partner-ts.groupon.nl
 .partner-ts.groupon.pl
-.partner.ah-ha.com
 .partner.become.co.jp
 .partner.ceneo.pl
 .partner.e-conomic.com
@@ -49908,6 +50040,7 @@ woutkw.type.jp
 .pennilesscomingall.com
 .pennilesstestangrily.com
 .pennynetwork.com
+.pennyweb.com
 .pensebig.com.br
 .penseedepascal.fr
 .pension-pentacon.de
@@ -50200,6 +50333,7 @@ woutkw.type.jp
 .phhovaafvjhdku.com
 .phialedamende.com
 .phicmune.net
+.phidianbesmut.com
 .phiduvuka.pro
 .phiefs.com
 .phiesi.stroeerdp.de
@@ -50227,6 +50361,7 @@ woutkw.type.jp
 .phobia.net
 .phocidabioses.store
 .phoebb.com
+.phoenix-adrunner.mycomputer.com
 .phoenix-widget.com
 .phoenixad.io
 .phoenixads.co.in
@@ -50436,6 +50571,7 @@ woutkw.type.jp
 .pingomatic.com
 .pingometer.com
 .pingtas.qq.com
+.pinguinmomma.com
 .pinionscdf.com
 .pinitolshouldn.com
 .pinkboy.fun
@@ -50595,7 +50731,6 @@ woutkw.type.jp
 .pkthyp.uno
 .pkudawbkcl.com
 .pkynqq.com
-.pl.263gmail.org
 .pl.web.toleadoo.com
 .pl520.com
 .pla-tk.flipkart.net
@@ -51066,6 +51201,8 @@ woutkw.type.jp
 .popupgoldblocker.net
 .popupmaker.com
 .popupme.net
+.popupmoney.com
+.popupnation.com
 .popupplus.ir
 .popups.infostart.com
 .popups.ru
@@ -51332,6 +51469,7 @@ woutkw.type.jp
 .preaf.jp
 .preanalytication.com
 .prebid-cache.ifunny.co
+.prebid-server.newsbreak.com
 .prebid.org
 .prebidwrapper.com
 .precedentadministrator.com
@@ -51381,6 +51519,7 @@ woutkw.type.jp
 .premiereblinkconfessed.com
 .premium-live-scan.com
 .premium-members.com
+.premium-offers.com
 .premium-offers.space
 .premium4kflix.club
 .premium4kflix.top
@@ -51584,6 +51723,7 @@ woutkw.type.jp
 .proeroclips.pro
 .proext.com
 .profanewoes.uno
+.profero.com
 .professionallycloudlessbarber.com
 .professionallytear.com
 .professionalsly.com
@@ -51746,6 +51886,7 @@ woutkw.type.jp
 .prosecutionsocktrap.com
 .prosecutorcessationdial.com
 .prosecutorkettle.com
+.proseoverlook.com
 .prosmazke.ru
 .prospectconductorcheerfully.com
 .prospecteye.com
@@ -52080,6 +52221,7 @@ woutkw.type.jp
 .puaabvs.cn
 .pub.akadigital.vn
 .pub.chez.com
+.pub.club-internet.fr
 .pub.hardware.fr
 .pub.network
 .pub.realmedia.fr
@@ -52483,6 +52625,7 @@ woutkw.type.jp
 .pyfqqcekcgd.xyz
 .pygone.top
 .pyirw.xyz
+.pyjqhb.xyz
 .pykgnuujfuq.com
 .pyksf.com
 .pymby.top
@@ -52999,6 +53142,7 @@ woutkw.type.jp
 .queqh.com
 .querulous-type.com
 .querylead.com
+.questaffiliates.net
 .question2answer.com
 .questionable-dead.com
 .questionfly.com
@@ -53205,6 +53349,7 @@ woutkw.type.jp
 .radiancethedevice.com
 .radiancewoebun.com
 .radiantskilled.com
+.radiate.com
 .radiateb2b.com
 .radio42.fr
 .radish-cake.xyz
@@ -53222,6 +53367,7 @@ woutkw.type.jp
 .ragazzepotshot.com
 .ragbagsporcine.com
 .rageagainstthesoap.com
+.ragerystenchy.com
 .ragged-weakness.pro
 .raglassofrum.cc
 .raglogripsa.com
@@ -53297,6 +53443,7 @@ woutkw.type.jp
 .rankinteractive.com
 .rankirani.ir
 .ranklink.de
+.rankyou.com
 .ranlisgz.fun
 .ranopportunit.info
 .rantsundaydish.com
@@ -53493,6 +53640,7 @@ woutkw.type.jp
 .realclever.com
 .realclick.co.kr
 .realclick.vn
+.realclix.com
 .realcounter.eu
 .realcounters.com
 .realer.info
@@ -53551,6 +53699,7 @@ woutkw.type.jp
 .rebakedenosist.com
 .rebbredbe.com
 .rebdy.com
+.rebelswing.com
 .rebevengwas.com
 .rebies.xyz
 .rebill.me
@@ -53763,6 +53912,7 @@ woutkw.type.jp
 .referforex.com
 .refericon.pl
 .referral.game-insight.com
+.referralware.com
 .referrer.org
 .referrer.website
 .refersion.com
@@ -54182,6 +54332,7 @@ woutkw.type.jp
 .respondenemy.com
 .responserver.com
 .responsetap.com
+.responsible-proposal.pro
 .responsibleassociation.com
 .responsidejo.xyz
 .responsiveads.com
@@ -54414,6 +54565,7 @@ woutkw.type.jp
 .rholi.ru
 .rhombicsomeday.com
 .rhombusads.com
+.rhubarbraise.com
 .rhudsplm.com
 .rhvdsplm.com
 .rhvfma2exjudfv.ru
@@ -54443,6 +54595,7 @@ woutkw.type.jp
 .richcatis.com
 .richh.cn
 .richinfo.co
+.richmails.com
 .richmediaads.com
 .richmediastudio.com
 .richmetrics.com
@@ -54653,6 +54806,7 @@ woutkw.type.jp
 .roagreed.com
 .roakicat.net
 .roaptesh.com
+.roar.com
 .roastedvolt.net
 .roataisa.net
 .robberyinscription.com
@@ -54776,6 +54930,7 @@ woutkw.type.jp
 .roostkalekah.com
 .rootbuzz.com
 .rootzaffiliates.com
+.ropedsawwort.com
 .ropemoon.com
 .rorer.ru
 .rorgoops.com
@@ -54929,6 +55084,7 @@ woutkw.type.jp
 .rsdkk26.xyz
 .rsdop.icu
 .rshrpmk.xyz
+.rsinnxoe.com
 .rskillsplu.club
 .rsmdlk.cn
 .rsnignsz.xyz
@@ -55767,6 +55923,7 @@ woutkw.type.jp
 .scratchy-deep.pro
 .scratchy-kind.pro
 .scrawnystart.com
+.scrazeunwaged.com
 .screechadulthood.com
 .screechingslip.com
 .screen-mates.com
@@ -56573,6 +56730,7 @@ woutkw.type.jp
 .sheetvibe.com
 .sheglach.net
 .shellstore.info
+.shellypartile.com
 .shelvesdeserve.com
 .shelvesendorsebloom.com
 .shenbabao.com
@@ -56589,6 +56747,7 @@ woutkw.type.jp
 .shepeekr.net
 .shepherdbetrayaldecoction.com
 .shequdaohang.com
+.sher.index.hu
 .shereeflivish.com
 .sherlockseries.ru
 .shermore.info
@@ -56648,6 +56807,7 @@ woutkw.type.jp
 .shitiphu.com
 .shitoulm.com
 .shitucka.net
+.shivateicher.com
 .shivoaps.net
 .shixiaofei864.cn
 .shixiong.xyz
@@ -56756,7 +56916,6 @@ woutkw.type.jp
 .show-msgch.qq.com
 .show-review.com
 .show.everytell.com
-.show.niqiu99.org
 .show.suning.beer
 .showbiz.mail.ru
 .showcasead.com
@@ -56962,6 +57121,7 @@ woutkw.type.jp
 .simplycode.co
 .simplyjmp.com
 .simplymeasured.com
+.simplymiraculousurn.com
 .simplysemblance.com
 .simpunok.com
 .simrubwan.com
@@ -57199,6 +57359,7 @@ woutkw.type.jp
 .slantedsecno.com
 .slapclergymoth.com
 .slaqandsan.xyz
+.slaresolidi.com
 .slartwomans.com
 .slashstar.net
 .slaughtergarageparttime.com
@@ -57262,6 +57423,7 @@ woutkw.type.jp
 .slimgipnoz.ru
 .slimhousewifesubtle.com
 .slimindy.top
+.slimlyeneas.com
 .slimreply.pro
 .slimspots.com
 .slimtrade.com
@@ -57918,6 +58080,7 @@ woutkw.type.jp
 .specificclick.net
 .specificmedia.co.uk
 .specificmedia.com
+.specificpop.com
 .specificunfortunatelyultimately.com
 .specifiedinspector.com
 .specimenspeekzone.com
@@ -57957,6 +58120,7 @@ woutkw.type.jp
 .spentbennet.com
 .sperans-beactor.com
 .spewyelks.com
+.spezialreporte.de
 .sphjtw.ru
 .sphostserver.com
 .spicarhamn.website
@@ -58307,6 +58471,7 @@ woutkw.type.jp
 .stardatis.com
 .starefolks.com
 .starewhupsu.pro
+.starffa.com
 .stargamesaffiliate.com
 .starikanadstarikan.ru
 .starkhousing.com
@@ -58476,7 +58641,6 @@ woutkw.type.jp
 .statistics.ro
 .statistics.tapchimypham.com.vn
 .statistics.theonion.com
-.statistics.videofarm.daum.net
 .statistics.vov.vn
 .statistics.vov2.vn
 .statisticsdemandeddeficit.com
@@ -60321,6 +60485,7 @@ woutkw.type.jp
 .textads.biz
 .textbrokr.fr
 .textklicks.de
+.textlinks.com
 .texto.click
 .textonlyads.com
 .textsrv.com
@@ -60605,7 +60770,6 @@ woutkw.type.jp
 .thind-gke-euw.prd.data.corp.unity3d.com
 .thingrealtape.com
 .thingsdetermine.com
-.thinknyc.eu-adcenter.net
 .thinkseducation.com
 .thinksuggest.org
 .thinktarget.com
@@ -60651,6 +60815,7 @@ woutkw.type.jp
 .thongke.vui.vn
 .thongke99.baogiaothong.vn
 .thongrooklikelihood.com
+.thongsalhagi.com
 .thoomsay.com
 .thoorest.com
 .thooruwee.com
@@ -61131,6 +61296,7 @@ woutkw.type.jp
 .tomawilea.com
 .tomboy.lol
 .tomekas.com
+.tomeleafs.com
 .tomentaabac.com
 .tommasobuglioni.com
 .tommiesuntewed.com
@@ -61723,7 +61889,6 @@ woutkw.type.jp
 .tracker.cdn-moneysmart.com
 .tracker.citicsinfo.com
 .tracker.cl1.fidelizador.com
-.tracker.clicktrade.com
 .tracker.comunidadmarriott.com
 .tracker.consumerpackage.net
 .tracker.coopt.com
@@ -61775,6 +61940,7 @@ woutkw.type.jp
 .trackmethod.com
 .trackmstr.com
 .trackmundo.com
+.trackmysales.com
 .trackmytarget.com
 .trackmyusers.com
 .trackmyweb.net
@@ -61979,6 +62145,7 @@ woutkw.type.jp
 .treepullmerriment.com
 .trehtnoas.com
 .trek.powtoon.com
+.trekdata.com
 .trekluck.ru
 .trekmedia.net
 .trellian.com
@@ -62166,6 +62333,7 @@ woutkw.type.jp
 .truehits.in.th
 .truehits.net
 .truehits1.gits.net.th
+.truehits2.gits.net.th
 .truehits3.gits.net.th
 .truenat.bid
 .truendo.com
@@ -62471,6 +62639,7 @@ woutkw.type.jp
 .tweetup.com
 .twentyalight.com
 .twentycustomimprovement.com
+.twerwew.org
 .twiago.com
 .twiggycosmoid.com
 .twinadsrv.com
@@ -62811,7 +62980,6 @@ woutkw.type.jp
 .uglypath.pro
 .ugmfvqsu.ru
 .ugnlaigt.fun
-.ugo.eu-adcenter.net
 .ugooo.cc
 .ugostlyhewo.xyz
 .ugricmoist.com
@@ -62876,6 +63044,7 @@ woutkw.type.jp
 .ukenthascaptureu.info
 .ukfareputfea.xyz
 .ukiyoyechromy.com
+.ukmlastityty.info
 .ukoffzeh.com
 .ukqgrxlxvockj.xyz
 .ukrait.com
@@ -62950,6 +63119,7 @@ woutkw.type.jp
 .umekana.ru
 .umentrandings.xyz
 .umhfrtu.cn
+.umiackscursors.com
 .umkezbh.cn
 .ummerciseha.com
 .ummihaqhu.xyz
@@ -62992,6 +63162,7 @@ woutkw.type.jp
 .unburstballist.com
 .unbuttondeferinstalment.com
 .unbuttontumorbaloney.com
+.uncannyuneaths.com
 .uncavefertile.website
 .uncertainimprovementsspelling.com
 .uncheckluggies.com
@@ -63253,6 +63424,7 @@ woutkw.type.jp
 .uparceuson.com
 .uparpu.com
 .upasiansex.com
+.upbuoyearfuls.com
 .upcash.ru
 .upclick.ru
 .update-your-pc.info
@@ -63271,6 +63443,7 @@ woutkw.type.jp
 .updating-url.net
 .updatingpage.com
 .updatingwebpage.com
+.updiveufos.com
 .uperizeunoiled.com
 .upeyganpell.website
 .upffxs6.com
@@ -63287,6 +63460,7 @@ woutkw.type.jp
 .upleaptnavally.com
 .uplift-platform.com
 .upliftsearch.com
+.uplinecliency.com
 .upload.adtech.fr
 .upload.adtech.us
 .uplog.inews.qq.com
@@ -63300,6 +63474,7 @@ woutkw.type.jp
 .upperched.com
 .uppereugene.com
 .uppitypartie.website
+.uppons.com
 .uppro.ru
 .uppsyduckan.com
 .upravel.com
@@ -63425,7 +63600,6 @@ woutkw.type.jp
 .urzl.fr
 .us-events.api.iheart.com
 .us-microsoft-store.com
-.us.3zs0.date
 .us.a1.yimg.com
 .us.cf
 .us.i1.yimg.com
@@ -63568,7 +63742,7 @@ woutkw.type.jp
 .utijs.xyz
 .utilitypresent.com
 .utillib.xyz
-.utils.mediageneral.com
+.utils.mediageneral.net
 .utimg.ru
 .utl-1.com
 .utlhaoyc.xyz
@@ -63642,6 +63816,7 @@ woutkw.type.jp
 .uwsxz.com
 .uwumr.cn
 .uwwaml.com
+.uxcnhsf.cn
 .uxdwhatijun.xyz
 .uxernab.com
 .uxlidt.ink
@@ -64252,6 +64427,7 @@ woutkw.type.jp
 .videoplaza.tv
 .videoplus.vo.llnwd.net
 .videopotok.pro
+.videoprodavec.ru
 .videoroll.net
 .videortb.ru
 .videos.fleshlight.com
@@ -64518,6 +64694,7 @@ woutkw.type.jp
 .vitaminalcove.com
 .vitemadose.fr
 .vitiumcranker.com
+.vitrealmandola.com
 .vitrine.sup.com
 .vitrinler3.com
 .viuspbkmn.bar
@@ -64612,7 +64789,6 @@ woutkw.type.jp
 .vnrvss.com
 .vntsm.com
 .vntsm.io
-.vnu.eu-adcenter.net
 .vnvmif.cn
 .voacheph.xyz
 .voadeezu.net
@@ -64828,6 +65004,7 @@ woutkw.type.jp
 .vucdmuvavnu.com
 .vudoutch.com
 .vue-js.cyou
+.vueegqt.xyz
 .vuehhkm9.cfd
 .vueujv.com
 .vuftouks.com
@@ -65286,6 +65463,7 @@ woutkw.type.jp
 .web123.webhotelli.fi
 .web1b.netreflector.com
 .web1s.com
+.web2.deja.com
 .web3ads.net
 .web4023.top
 .web605.cn
@@ -65309,6 +65487,7 @@ woutkw.type.jp
 .webcampromo.com
 .webcampromotions.com
 .webcamsex.nl
+.webcash.nl
 .webcaster.pro
 .webchat.caresoft.vn
 .webclickengine.com
@@ -65379,6 +65558,7 @@ woutkw.type.jp
 .webpaypal.com
 .webpfy.com
 .webpinp.com
+.webpower.com
 .webpower.eu
 .webproficlub.ru
 .webprospector.de
@@ -65422,6 +65602,7 @@ woutkw.type.jp
 .websocket.sobhtazeh.news
 .websocket.varandaz.com
 .webspiration.de
+.websponsors.com
 .webstag.kplus.vn
 .webstat.com
 .webstat.fr
@@ -65455,6 +65636,7 @@ woutkw.type.jp
 .webtraffiq.com
 .webtrafic.ru
 .webtraxs.com
+.webtraxx.de
 .webtrekk-asia.net
 .webtrekk-us.net
 .webtrekk.com
@@ -65542,6 +65724,7 @@ woutkw.type.jp
 .weipapa.top
 .weiqu.cyou
 .weirdbetorn.com
+.weirmelamin.com
 .weixinfb.cn
 .weixinnft.com
 .weixinxx.com
@@ -65740,6 +65923,7 @@ woutkw.type.jp
 .whiscas.fr
 .whiskerssituationdisturb.com
 .whisla.com
+.whispa.com
 .whisperingflesh.com
 .whisperofisaak.com
 .whistedsynapte.com
@@ -65819,6 +66003,7 @@ woutkw.type.jp
 .whrc.xyz
 .whrgsmi.cn
 .whs82908.com
+.whsledorking.com
 .whuckaip.xyz
 .whudursus.com
 .whugesto.net
@@ -65954,6 +66139,7 @@ woutkw.type.jp
 .windingnegotiation.com
 .windofaeolus.com
 .windoorsew.club
+.window.nixnet.cz
 .windowgolddealtheclicks.live
 .windowmentaria.com
 .windows-afx-update.com
@@ -66407,6 +66593,7 @@ woutkw.type.jp
 .writeln.ru
 .writerredolasy.club
 .writespruce.com
+.writhehawm.com
 .writingwhine.com
 .writshackman.com
 .writtenanonymousgum.com
@@ -66475,6 +66662,7 @@ woutkw.type.jp
 .wtd57s7j.cn
 .wtdome.com
 .wtg-ads.com
+.wtlive.com
 .wtmtrack.com
 .wtnj.worldnow.com
 .wtorain.red
@@ -66596,17 +66784,14 @@ woutkw.type.jp
 .www.a2uu36g43l.download
 .www.aandgwright.plus.com
 .www.abc-tax.jp
-.www.ad-up.com
 .www.ad-words.ru
 .www.adbert.com.tw
 .www.addfreecounter.com
 .www.adimages.beeb.com
 .www.adloader.com
 .www.adlogix.com
-.www.admex.com
 .www.adpmbtj.com
 .www.adpowerzone.com
-.www.adreporting.com
 .www.adrianwaldock.plus.com
 .www.adservtech.com
 .www.adsnet.se
@@ -66685,7 +66870,6 @@ woutkw.type.jp
 .www.clearalgorithm.com
 .www.click10.com
 .www.click4click.com
-.www.clickbank.com
 .www.clickclick.com
 .www.clicktale.com
 .www.clicktilluwin.com
@@ -66700,7 +66884,6 @@ woutkw.type.jp
 .www.counterguide.com
 .www.courtneywalker.plus.com
 .www.cpabank.com
-.www.crazypopups.com
 .www.crazywinnings.com
 .www.credit-dreams.com
 .www.csalikft.hu
@@ -66728,13 +66911,13 @@ woutkw.type.jp
 .www.dunlop.force9.co.uk
 .www.dutchsales.org
 .www.e-bannerx.com
+.www.e-transfer-cra.com
 .www.eastwood35.idps.co.uk
 .www.easy2date.net
 .www.ebaybanner.com
 .www.edv-waldherr.at
 .www.emadesign.net
 .www.emarketmakers.com
-.www.entercasino.com
 .www.eshopads2.com
 .www.eva.hi-ho.ne.jp
 .www.everestgroupcorp.com
@@ -66811,6 +66994,7 @@ woutkw.type.jp
 .www.justhookup.com
 .www.jvzoo.com
 .www.k-macs.ne.jp
+.www.kaplanindex.com
 .www.kenkudo.plus.com
 .www.keyofhealth.com
 .www.kitchentablegang.org
@@ -66913,9 +67097,7 @@ woutkw.type.jp
 .www.psychics-readings-for-free.com
 .www.punishtube.com
 .www.qcoldtui1999.com
-.www.radiate.com
 .www.randppro-cuts.com
-.www.rankyou.com
 .www.realincestvideos.com
 .www.redactiepartners.nl
 .www.registrarads.com
@@ -66955,7 +67137,6 @@ woutkw.type.jp
 .www.smspop.com
 .www.softcha.com
 .www.specificclick.com
-.www.specificpop.com
 .www.speedyclick.com
 .www.spinia.com
 .www.sponsoradulto.com
@@ -67019,7 +67200,6 @@ woutkw.type.jp
 .www.wctc.net
 .www.webpartition.com
 .www.websitepromoten.be
-.www.websponsors.com
 .www.weknow.ac
 .www.wessexgrange.plus.com
 .www.westreclameadvies.nl
@@ -67042,7 +67222,6 @@ woutkw.type.jp
 .www.zbippirad.info
 .www0.xyz
 .www1.amigo2.ne.jp
-.www1.bannerspace.com
 .www1.wxnmh.com
 .www10.glam.com
 .www12.glam.com
@@ -67051,7 +67230,6 @@ woutkw.type.jp
 .www17.glam.com
 .www18.glam.com
 .www2.ad-server.online
-.www2.bannerspace.com
 .www2.glam.com
 .www2.gorillavid.in
 .www2.pagecount.com
@@ -67061,7 +67239,6 @@ woutkw.type.jp
 .www24a.glam.com
 .www25.glam.com
 .www25a.glam.com
-.www3.bannerspace.com
 .www3.click-fr.com
 .www3.haberturk.com
 .www3.telus.net
@@ -67079,19 +67256,14 @@ woutkw.type.jp
 .www35jm.glam.com
 .www35t.glam.com
 .www4.at.debianbase.de
-.www4.bannerspace.com
 .www4.glam.com
 .www4176uc.sakura.ne.jp
-.www5.bannerspace.com
 .www5.zoosi.club
-.www6.bannerspace.com
 .www6.click-fr.com
 .www6.ns1.name
 .www69.bestdeals.at
 .www69.byinter.net
 .www69.findhere.org
-.www7.bannerspace.com
-.www8.bannerspace.com
 .www8.glam.com
 .www9.compblue.com
 .www9.servequake.com
@@ -67462,6 +67634,7 @@ woutkw.type.jp
 .xijkye.top
 .xijojwonz.com
 .xilbalar.com
+.xilofr.xyz
 .xilqhukky.com
 .ximad.com
 .xinchenyang.cn
@@ -67693,6 +67866,7 @@ woutkw.type.jp
 .xpx7heciz9.com
 .xpynqq.com
 .xpysozb.cn
+.xq1.net
 .xq5tf4nfccrb.info
 .xqcjfcb.cn
 .xqgwymog.xyz
@@ -68752,6 +68926,7 @@ woutkw.type.jp
 .zaglushkaaa.com
 .zagtertda.com
 .zagvee.com
+.zaheki.uno
 .zahl4tf5z.world
 .zahl4tf5z.xyz
 .zahl4tf5zclub.xyz
@@ -69198,6 +69373,7 @@ woutkw.type.jp
 .zmadsvd.cn
 .zmakj.xyz
 .zmctrack.net
+.zmedia.com
 .zmenmuol.com
 .zmfdjb.xyz
 .zmivcara.com
@@ -69328,6 +69504,7 @@ woutkw.type.jp
 .zsjyuet.cn
 .zslhmw.com
 .zsmyzg.cn
+.zsnfdphz.com
 .zsnignsq.xyz
 .zsnoownmq.fun
 .zswl.so
@@ -69405,6 +69582,7 @@ woutkw.type.jp
 .zwaar.net
 .zwaar.org
 .zwadakesq.cyou
+.zwbbkjvzqbyba.top
 .zwgege.cn
 .zwiaaop.cyou
 .zwlikv.cn
@@ -69473,6 +69651,7 @@ woutkw.type.jp
 .zzngisyq.xyz
 .zzpwwbf.cn
 .zzpzero.com
+.zzqrr.com
 .zzwzsic.cn
 .zzxedr.xyz
 .zzxjlr.com
@@ -85641,6 +85820,7 @@ woutkw.type.jp
 .az416426.vo.msecnd.net
 .azansreliant.com
 .azcoct.bikkembergs.com
+.azdxypf.cn
 .azither.com
 .azlej8cdm.pragmaticwebsecurity.com
 .azogqooa.com
@@ -86717,6 +86897,7 @@ woutkw.type.jp
 .bybtlvcljrmhg.com
 .byctpwuooyiv.com
 .byhqrw.gopeople.co.kr
+.byjykj.xyz
 .bykwtf.victoriassecret.ae
 .bymeowsticfemaletor.com
 .bypass.jp
@@ -91136,6 +91317,7 @@ woutkw.type.jp
 .dffaernr.com
 .dfgbodpefmlq.com
 .dfjbgfldsjdsnldksjalld1235.cn
+.dfjd.xyz
 .dfmngtubtdfxnq.com
 .dfokydq.cn
 .dfp.bouncex.net
@@ -92508,6 +92690,7 @@ woutkw.type.jp
 .ena-native-ads9.com
 .enablecherrysail.com
 .enablement.vmware.com
+.enbclpbyi.com
 .encasedandelionhauled.com
 .enccfrrxbhkkthk.xyz
 .encirclenorth.com
@@ -93627,6 +93810,7 @@ woutkw.type.jp
 .fsf44dfsfsdfsdf.popoppopoopp.fun
 .fsgsdfgsdf.trekkeeee.fun
 .fskj100.cn
+.fsnpbh.xyz
 .fsoft4down.com
 .fssuqbylk.com
 .fsswokpc.com
@@ -93653,6 +93837,7 @@ woutkw.type.jp
 .fudezz.motorplus-online.com
 .fudezz.sonora.id
 .fuffyauth.com
+.fugcgfilma.com
 .fuicmy.hana-mail.jp
 .fuigixk.cn
 .fuiincik.com
@@ -94344,6 +94529,7 @@ woutkw.type.jp
 .go.vitalitybrasil.com
 .go.welltrk.com
 .go.wheelssavvy.com
+.go.xhamsterlive.com
 .go.yescomusa.com
 .go.yourhealthyfitnessjourney.com
 .go.yourpatientboards.com
@@ -94594,7 +94780,6 @@ woutkw.type.jp
 .guutvwqdxn.com
 .guwuym.barneys.co.jp
 .guxin.me
-.guzsjdl.cn
 .gvcaffiliates.com
 .gvcgbd.byggshop.se
 .gvdqzy.milanoo.com
@@ -96611,6 +96796,7 @@ woutkw.type.jp
 .jc.buerchaoshi.com
 .jc.jtydbz.com
 .jc.lgtianma.cn
+.jciske.top
 .jcnedb.naracamicie.jp
 .jcpjfyikk.dogbonemarket.com
 .jcrlrwwosud.xyz
@@ -97121,7 +97307,6 @@ woutkw.type.jp
 .kechacecha.com
 .kefu3254.cn
 .kefuxt2022.cn
-.kehbcv.top
 .kejebbirmaxmwhv.xyz
 .kejia.pw
 .kembuck.homes
@@ -97422,7 +97607,6 @@ woutkw.type.jp
 .kwnq4hg2n9.com
 .kwwgmv.tennistown.de
 .kwwinyvxxzsmny.com
-.kx.ragerystenchy.com
 .kx4.firstsexfilm.com
 .kxclorpruisyo.com
 .kxldvcytb.xyz
@@ -103932,6 +104116,7 @@ woutkw.type.jp
 .ppcpnvwskrdnev.com
 .ppctrck.com
 .ppj338.cn
+.pplnjoow.com
 .pppbrkwd.xyz
 .pppvrbaoyy.com
 .ppqlnwavlmt.com
@@ -104352,7 +104537,6 @@ woutkw.type.jp
 .pxl.indeed.com
 .pxmzlk.redfin.com
 .pyjjfhchcfjn.com
-.pyjqhb.xyz
 .pyk.in-neo.cn
 .pyloic.com
 .pymsqjixir.xyz
@@ -104558,6 +104742,7 @@ woutkw.type.jp
 .qrfladd.cn
 .qrovihmhxbnnm.com
 .qrzogzy.cn
+.qsanciy.top
 .qscidskqz.com
 .qscwdv.top
 .qsdr.mysunnylawn.com
@@ -105299,7 +105484,6 @@ woutkw.type.jp
 .rs.picmega.com
 .rs.tupigrousy.com
 .rs2.adledge.com
-.rsinnxoe.com
 .rslnmcxhopsmtuk.com
 .rsnogpgohyo.com
 .rsnvboidrvqjso.com
@@ -109288,7 +109472,6 @@ woutkw.type.jp
 .smunis.com
 .smvocdnxusp.com
 .smxmlr.shimojima.jp
-.sn.weirmelamin.com
 .sn3301-c.1drv.com
 .sn3301-e.1drv.com
 .sn3301-g.1drv.com
@@ -109791,6 +109974,7 @@ woutkw.type.jp
 .ssa.geniuskitchen.com
 .ssa.oprah.com
 .ssa.scrippsnetworksinteractive.com
+.ssancib.top
 .ssbyysdaj.com
 .ssc.alhurra.com
 .ssc.amerikaninsesi.org
@@ -113686,7 +113870,6 @@ woutkw.type.jp
 .ux.withinshobbist.com
 .uxakoonblafkys.com
 .uxaz.fxnfk.cn
-.uxcnhsf.cn
 .uxek.85nv96.cn
 .uxkurx.sportsmansguide.com
 .uxmqxjwuwc.com
@@ -113742,6 +113925,7 @@ woutkw.type.jp
 .v3hu9iu.cn
 .v7.shaoyumuye.com
 .v8-collector-live.us-west-2.elasticbeanstalk.com
+.v9gfm.xyz
 .vacationbetter.inspirato.com
 .vagime.com
 .vahfzpfyg.com
@@ -114082,7 +114266,6 @@ woutkw.type.jp
 .vpuuzj.schnullireich.de
 .vpvbojamkoxo.com
 .vpyqdlrweoc.com
-.vq.areiccastano.com
 .vq40567.com
 .vqieahnhdle.com
 .vqkfkmexle.com
@@ -114306,7 +114489,6 @@ woutkw.type.jp
 .wavysumatone.cam
 .wayexiaofei.club
 .wb.110.taobao.com
-.wb.uncannyuneaths.com
 .wbbmubevftcy.com
 .wbnzkf.roofgraf.com
 .wboeot.shop2gether.com.br
@@ -115894,6 +116076,7 @@ woutkw.type.jp
 .ysnvlxop.com
 .yssqseskiwfomhf.com
 .ysyjg.com
+.yszpegh.xyz
 .yt-adv.bn.netease.com
 .ytaslwfsq.com
 .ytb2017.club
@@ -119654,7 +119837,6 @@ woutkw.type.jp
 .cbc.pnc.com
 .cbdatatracker.com
 .cbl6.destinia.gt
-.cbmetrics.clickbank.com
 .cbpgpg.bombshellsportswear.com
 .cc.conforama.es
 .cc.swiftype.com
@@ -127369,7 +127551,6 @@ woutkw.type.jp
 .smetrics.centene.com
 .smetrics.centrum.com
 .smetrics.claires.com
-.smetrics.clickbank.com
 .smetrics.cnn.com
 .smetrics.coach.com
 .smetrics.columbia.com

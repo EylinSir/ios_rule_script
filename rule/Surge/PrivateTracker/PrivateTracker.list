@@ -1,7 +1,7 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-08 02:12:58
+# UPDATED: 2023-06-10 02:11:39
 # DOMAIN: 180
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 118
@@ -31,8 +31,8 @@ DOMAIN,c-71-227-163-17.hsd1.wa.comcast.net
 DOMAIN,canardscitrons.nohost.me
 DOMAIN,carr.codes
 DOMAIN,city21.pk
+DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
-DOMAIN,dex.email
 DOMAIN,dmitrynegoda.com
 DOMAIN,download.nerocloud.me
 DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
@@ -79,8 +79,8 @@ DOMAIN,private.anonseed.com
 DOMAIN,psyco.fr
 DOMAIN,public-tracker.cf
 DOMAIN,public.publictracker.xyz
-DOMAIN,public.tracker.vraphim.com
 DOMAIN,pxnet.ru
+DOMAIN,region.nl1.privex.cc
 DOMAIN,rep-art.ynh.fr
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta-net.ru
@@ -126,6 +126,7 @@ DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.edkj.club
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
@@ -147,10 +148,10 @@ DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.monitorit4.me
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.ocnix.net
 DOMAIN,tracker.openbittorrent.com
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skyts.net
@@ -161,7 +162,6 @@ DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.trojangogogo.site
-DOMAIN,tracker.zerobytes.xyz
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
